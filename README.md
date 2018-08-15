@@ -1,2 +1,2 @@
-# rawatmanoj.github.io Project diary
+#  Project diary
 This deals with a secret diary project where people can share anything.
